@@ -1,0 +1,22 @@
+html, body {
+    height:100vh;
+    background: rgb(202, 240, 145);
+    padding:0;
+    margin:0;
+}
+.click-load {
+    width:200px;
+    border:1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 25px;
+    margin: 0 auto;
+    font-weight: 200;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.click-load:hover {
+    border:1px solid #fff;
+    background: #fff;
+    color: rgb(109, 176, 9);
+}

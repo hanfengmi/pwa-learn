@@ -1,0 +1,27 @@
+{
+  "name": "pwa-learning",
+  "version": "1.0.0",
+  "description": "——————拉我起来，我还能学",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanfengmi/pwa-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanfengmi/pwa-learning/issues"
+  },
+  "homepage": "https://github.com/hanfengmi/pwa-learning#readme",
+  "devDependencies": {
+    "koa": "^2.7.0",
+    "koa-static": "^5.0.0"
+  },
+  "dependencies": {
+    "koa2-cors": "^2.0.6"
+  }
+}
